@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.*
+
+# OS files
+.DS_Store
+
+# Vite/Next.js
+.next/
+.vite/
+
+# VSCode
+.vscode/
+
+# Coverage
+coverage/
+
+# lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml 
