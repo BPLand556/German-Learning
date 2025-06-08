@@ -128,4 +128,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - xAI for providing the conversational AI API
 - Web Speech API for voice processing capabilities
-- All contributors and users of the platform 
+- All contributors and users of the platform # German-Learning
